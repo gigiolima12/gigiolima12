@@ -1,7 +1,7 @@
 ## Giovanna Lima Gonçalves 
 Sejam muito bem-vindos!!! 👋
 
-[](https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif)
+[Gi](https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif)
 
 *Sobre mim:*
 Eu sou a Giovanna Lima Gonçalves, tenho 18 anos e moro em São Paulo - Capital. Curso Desenvolvimento de Sistemas no Senac.
