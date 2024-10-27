@@ -24,3 +24,8 @@ Sobre: O sistema de software será implementado na Sapataria Zaz Traz, para melh
 - Linguagem de Programação: Java
 - Banco de dados: MySQL
 - IDE: Eclipse
+
+# Entre em contato comigo atráves do:
+conatogiovannalima12@gmail.com
+
+https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif
