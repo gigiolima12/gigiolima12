@@ -1,8 +1,6 @@
 ## Giovanna Lima Gonçalves 
 Sejam muito bem-vindos!!! 👋
 
-[Gi](https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif)
-
 *Sobre mim:*
 Eu sou a Giovanna Lima Gonçalves, tenho 18 anos e moro em São Paulo - Capital. Curso Desenvolvimento de Sistemas no Senac.
 Desde pequena sempre estive muito envolvida com a Tecnologia e isso me tornou uma pessoa curiosa, sempre buscando aprender mais,
@@ -27,7 +25,7 @@ Sobre: O sistema de software será implementado na Sapataria Zaz Traz, para melh
 - Banco de dados: MySQL
 - IDE: Eclipse
 
-# Entre em contato comigo atráves do:
+# Entre em contato comigo através do:
 conatogiovannalima12@gmail.com
 
-
+[](https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif)
