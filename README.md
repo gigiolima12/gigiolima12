@@ -1,4 +1,4 @@
-https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif
+[](https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif)
 
 ## Giovanna Lima Gonçalves 
 Sejam muito bem-vindos!!! 👋
