@@ -1,16 +1,26 @@
-## Hi there 👋
+## Giovanna Lima Gonçalves 
+Sejam muito bem-vindos!!! 👋
 
-<!--
-**gigiolima12/gigiolima12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Sobre mim:*
+Eu sou a Giovanna Lima Gonçalves, tenho 18 anos e moro em São Paulo - Capital. Curso Desenvolvimento de Sistemas no Senac.
+Desde pequena sempre estive muito envolvida com a Tecnologia e isso me tornou uma pessoa curiosa, sempre buscando aprender mais,
+até que um certo dia, decidi que iria fazer um curso para me desenvolver mais, e foi ai que tudo começou, decidi me inscrever para 
+fazer o curso Técnico em Desenvolvimento de Sistemas, no começo senti um pouco de medo, mas ao mesmo tempo com muita sede de aprender,
+então resolvi criar esse perfil para que pudesse compartilhar um pouco sobre os meus estudos, projetos desenvolvidos e até mesmo para que eu
+possa acompanhar o meu desenvolvimento ao longo dessa jornada. 
 
-Here are some ideas to get you started:
+# Tecnologias Utilizadas:
+- Portugol
+- Workbench
+- Netbeans
+- SQLbackup
+- MongoDB
+- VisualStudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projeto - Sapataria:
+Sobre: O sistema de software será implementado na Sapataria Zaz Traz, para melhorar o cadastro de clientes, permitindo a melhoria na organização, para um bom atendimento visando atender suas necessidades e demandando suas informações para que os objetivos possam ser cumpridos.
+
+*Tecnologias utilizadas:*
+- Linguagem de Programação: Java
+- Banco de dados: MySQL
+- IDE: Eclipse
