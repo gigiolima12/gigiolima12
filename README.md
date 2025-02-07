@@ -26,6 +26,6 @@ Sobre: O sistema de software será implementado na Sapataria Zaz Traz, para melh
 - IDE: Eclipse
 
 # Entre em contato comigo através do:
-conatogiovannalima12@gmail.com
+contatogiovannalima12@gmail.com
 
 [](https://media1.tenor.com/m/gnA7-5TewXMAAAAC/elle-woods.gif)
